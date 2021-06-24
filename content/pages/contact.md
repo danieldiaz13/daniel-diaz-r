@@ -3,7 +3,8 @@ title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections:
   - type: section_form
-    content
+    content:
+    #r
 seo:
   title: Contact
   description: This is the contact page
