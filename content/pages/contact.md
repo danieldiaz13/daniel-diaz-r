@@ -3,7 +3,7 @@ title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections: [] gh
 seo: gh
-  title: Contact
+  title: Contact hh
   description: This is the contact page
   extra:
     - name: 'og:type'
