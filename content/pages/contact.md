@@ -1,7 +1,6 @@
 ---
 title: Daniel Felipe Diaz Rodriguez
 hide_title: false
-sections: []
 sections:
   - type: section_form
     content: hgh 
