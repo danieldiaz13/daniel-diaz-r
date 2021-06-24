@@ -1,9 +1,6 @@
 ---
 title: Daniel Felipe Diaz Rodriguezz
 hide_title: false
-sections:
-  - type: section_form
-    content: hgh
 sections: [] 
 seo: 
   title: Contact
