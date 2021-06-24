@@ -2,7 +2,7 @@
 title: Daniel Felipe Diaz Rodriguezz
 hide_title: false
 sections:
-    content: ¿Quién soy?
+     ¿Quién soy?
        Soy colombiano actualmente me encuentro estudiando la carrera de electrónica en la universidad del valle estando en la universidad conocí en mundo de la programación y decidí como ser más afondo este mundo así que comencé a estudiar programación en Platiz mnm, jk   
 
        # Enfocado en
