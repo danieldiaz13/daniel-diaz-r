@@ -1,7 +1,15 @@
 ---
 title: Daniel Felipe Diaz Rodriguezz
 hide_title: false
-sections: [] 
+sections:  # ¿Quién soy?
+       Soy colombiano actualmente me encuentro estudiando la carrera de electrónica en la universidad del valle estando en la universidad conocí en mundo de la programación y decidí como ser más afondo este mundo así que comencé a estudiar programación en Platiz mnm, jk   
+
+       # Enfocado en
+       Circuitos electrónicos, JavaScript, Python,
+
+       
+       # Trayectoria u 
+       Llevo 2 años en la universidad del valle en la carrera de electrónica, enfocado en Platiz asiendo cursos y retos los cuales puedes observar en mi perfil de LinkedIn www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
 seo: 
   title: Contact
   description: This is the contact page
