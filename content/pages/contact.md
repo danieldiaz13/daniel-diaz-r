@@ -1,6 +1,6 @@
 ---
 title: Daniel Felipe Diaz Rodriguez
-hide_title: false
+hide_title: false 
 sections: []
 seo:
   title: Contact
