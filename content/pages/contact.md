@@ -3,7 +3,7 @@ title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections:
   - type: section_form
-    content: |
+    content: | 
 title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections: []
