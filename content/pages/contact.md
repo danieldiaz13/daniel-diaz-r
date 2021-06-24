@@ -5,7 +5,7 @@ sections: []
 seo: 
   title: Contact
   description: This is the contact page
-  extra:
+  extra: gh
     - name: 'og:type'
       value: website
       keyName: property
