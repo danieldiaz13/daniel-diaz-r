@@ -1,8 +1,5 @@
 ---
 title: Daniel Felipe Diaz Rodriguez
-
-  
-  # grggt
 hide_title: false
 sections: []
 seo:
