@@ -66,7 +66,7 @@
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
