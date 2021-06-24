@@ -1,5 +1,5 @@
 ---
-title: Daniel Felipe Diaz Rodriguez
+title: Daniel Felipe Diaz Rodrigue
 hide_title: false
 sections: []
 seo:
