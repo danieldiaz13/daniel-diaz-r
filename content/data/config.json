@@ -45,7 +45,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
