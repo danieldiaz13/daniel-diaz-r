@@ -14,7 +14,7 @@ sections:
        # Trayectoria 
        Llevo 2 años en la universidad del valle en la carrera de electrónica, enfocado en Platiz asiendo cursos y retos los cuales puedes observar en mi perfil de LinkedIn www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
 
-       
+       Para contactar conmigo, darme alguna sugerencia, algún contenido que quisieras ver, hablar de programación o algún error que encuentres házmelo saber por alguno de los siguientes medios   
 
        #### Correo: danieldiaz13200@gmail.com 
 seo: 
