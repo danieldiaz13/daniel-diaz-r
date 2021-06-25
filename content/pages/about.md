@@ -1,5 +1,5 @@
 ---
-title: Se logro culminar el reto de #Datacademy en #platzi al 100% donde tomamos 6 cursos uno por semana, esto es un pequeño avance aun falta mucho camino por recorre en el mundo de la #programación , aquí esta el resultado de el esfuerzo
+title: Se logro culminar el reto de #Datacademy en #platzi al sta el resultado de el esfuerzo
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
