@@ -37,6 +37,8 @@ layout: page
 
 Diploma de Datacademy: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
 
+ti
+
 imgen:
  
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
