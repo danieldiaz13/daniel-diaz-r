@@ -36,7 +36,12 @@ layout: page
 ---
 Diploma de Datacademy: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
 
-## 
+## Se logro culminar el reto de #RoadtoCode al 100% donde tomamos 6 cursos uno por semana, esto es un pequeño avance aun falta mucho camino por recorre, aquí esta el resultado de el esfuerzo.
+
+¡Aprobé el Road to Code 3.0 en 
+@Platzi
+! https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle/ #NuncaParesDeAprender
+
 
 imgen:
  
