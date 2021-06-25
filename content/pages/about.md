@@ -42,7 +42,7 @@ Road to Code 3.0 fue un reto que saco Platzi el cual consistía en tomar 6 curso
 
 Diploma de Road to Code 3.0: https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle/
 
-##
+## 
 
 
 
