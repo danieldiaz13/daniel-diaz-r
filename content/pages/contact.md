@@ -18,7 +18,7 @@ sections:
 
        #### Correo: danieldiaz13200@gmail.com
        #### Twitter:
-       #### LinkedIn: 
+       #### LinkedIn: www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
 seo: 
   title: Contact
   description: This is the contact page
