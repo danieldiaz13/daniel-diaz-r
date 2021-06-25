@@ -1,6 +1,8 @@
 ---
 title: Datacademy
-subtitle: Se logro culminar el reto de Datacademy en platzi al 100% donde tomamos 6 cursos uno por semana, esto es un pequeño avance aun falta mucho camino por recorre en el mundo de la programación, aquí esta el resultado de el esfuerzo
+subtitle: Datacademy fue un reto que saco Platzi el cual consistía en tomar 6 cursos los cuales se tomaban uno por semana
+Requisitos para culminar el reto:
+
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
