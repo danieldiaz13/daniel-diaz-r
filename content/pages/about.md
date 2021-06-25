@@ -3,7 +3,8 @@ title: Datacademy
 subtitle: >-
   Datacademy fue un reto que saco Platzi el cual consistía en tomar 6 cursos los
   cuales se tomaban uno por semana. Estos fueron los requisitos para culminar el
-  reto. https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
+  reto.
+   https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
 image: /images/Captura de pantalla 2021-06-25 143224.png
 https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
 image_alt: A man taking a picture
