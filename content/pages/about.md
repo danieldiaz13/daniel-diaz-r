@@ -39,7 +39,7 @@ Diploma de Datacademy: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy
 
 
 ---
-title
+title:
 
 imgen:
  
