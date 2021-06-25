@@ -6,7 +6,7 @@ subtitle: >-
   reto.
  FolloW link: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
 image: /images/Captura de pantalla 2021-06-25 143224.png
-FolloW link: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
+
 image_alt: A man taking a picture
 seo:
   title: About Us
