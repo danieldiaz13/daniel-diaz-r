@@ -5,7 +5,7 @@ subtitle: >-
   cuales se tomaban uno por semana. Estos fueron los requisitos para culminar el
   reto
 image: /images/Captura de pantalla 2021-06-25 143224.png
-url: ¡Aprobé el Datacademy Primera Edición en @Platzi! https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/ #NuncaParesDeAprender 
+url: ¡Aprobé el Datacademy Primera Edición en @Platzi! https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/ NuncaParesDeAprender 
 image_alt: A man taking a picture
 seo:
   title: About Us
