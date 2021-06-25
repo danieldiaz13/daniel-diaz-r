@@ -4,8 +4,7 @@ subtitle: >-
   Datacademy fue un reto que saco Platzi el cual consistía en tomar 6 cursos los
   cuales se tomaban uno por semana. Estos fueron los requisitos para culminar el
   reto.
-image: /images/Captura de pantalla 2021-06-25 143224.png
-
+image: /images/Captura de pantalla 2021-06-22 232956.png
 image_alt: A man taking a picture
 seo:
   title: About Us
