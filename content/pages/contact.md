@@ -17,7 +17,7 @@ sections:
        Para contactar conmigo, darme alguna sugerencia, algún contenido que quisieras ver, hablar de programación o algún error que encuentres házmelo saber por alguno de los siguientes medios   
 
        #### Correo: danieldiaz13200@gmail.com
-       
+       ### t
 seo: 
   title: Contact
   description: This is the contact page
