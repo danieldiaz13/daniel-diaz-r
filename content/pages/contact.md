@@ -18,6 +18,7 @@ sections:
 
        #### Correo: danieldiaz13200@gmail.com
        ### Twitter:
+       
 seo: 
   title: Contact
   description: This is the contact page
