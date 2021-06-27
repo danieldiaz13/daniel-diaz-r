@@ -6,8 +6,6 @@ subtitle: >-
   reto.
 image: /images/Captura de pantalla 2021-06-23 213610.png
 image_alt: A man taking a picture
-image: /images/Captura de pantalla 2021-06-23 213610.png
-image_alt: A man taking a picture
 seo:
   title: About Us
   description: This is the about us page
