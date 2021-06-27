@@ -34,6 +34,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+![](/\_static/app-assets/images/blue-hickory.png)
+
 Diploma de Datacademy: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
 
 ## Road to Code 3.0
