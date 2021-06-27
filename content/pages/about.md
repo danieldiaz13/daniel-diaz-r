@@ -34,7 +34,11 @@ layout: page
 ---
 
 
+
+
 Diploma de Datacademy: https://platzi.com/p/danieldiaz5174/curso/2381-datacademy-q12021/diploma/detalle/
+
+
 
 ## Road to Code 3.0
 
@@ -42,4 +46,4 @@ Road to Code 3.0 fue un reto que saco Platzi el cual consistía en tomar 6 curso
 
 ![](/\_static/app-assets/images/Captura%20de%20pantalla%202021-06-23%20104143.png)
 
-Diploma de Road to Code 3.0: [https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle/![](https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle/)](https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle/)
+Diploma de Road to Code 3.0: [https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle](https://platzi.com/p/danieldiaz5174/curso/2379-roadtocode3-secret/diploma/detalle/)/![](https://img.icons8.com/pastel-glyph/452/whatsapp--v2.png)
