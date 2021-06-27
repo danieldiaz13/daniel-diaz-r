@@ -5,7 +5,7 @@ subtitle: >-
   cuales se tomaban uno por semana. Estos fueron los requisitos para culminar el
   reto.
 image: /images/Captura de pantalla 2021-06-23 213610.png
-image: 
+image: /images/Captura de pantalla 2021-06-23 213610.png
 image_alt: A man taking a picture
 seo:
   title: About Us
