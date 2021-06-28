@@ -52,7 +52,7 @@ con solo descargar el lenguaje que deseas utilizar, es un editor que facilita
 el trabajo en CSS y HTML ya que se puede ver los resultados inmediatamente en
 el navegador
 
-### **Instalación de Visual Studio Code: **
+### **Instalación de Visual Studio Code:**
 
 jk
 
