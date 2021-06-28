@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-### **QUE ES VISUAL STUDIO:**
+### **QUE ES VISUAL STUDIO CODE:**
 
 CODE es un editor de código desarrollado por Microsoft para Windows, Linux, y macOS contiene un llenado de código inteligente. Se puede personalizar al gusto con distintos dipos de letras, colores, ETC…
 
@@ -51,5 +51,6 @@ el navegador
 
 ### **Instalación de Visual Studio Code:**
 
-jk
+En este enlace <https://code.visualstudio.com/>
 
+jk
