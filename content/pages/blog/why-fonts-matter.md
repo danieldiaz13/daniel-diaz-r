@@ -1,9 +1,6 @@
 ---
 title: Visual Studio Code
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+excerpt: "es un\_editor de código\_desarrollado por\_Microsoft\_para\_Windows,\_Linux\_y\_macOS, contiene un llenado de código inteligente. Se puede personalizar al gusto con\ndistintos dipos de letras, colores, ETC…"
 date: '2021-06-27'
 thumb_image: /images/panoramic-birch.jpg
 thumb_image_alt: A pile of books on the table
