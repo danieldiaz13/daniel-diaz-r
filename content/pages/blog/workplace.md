@@ -48,6 +48,7 @@ Esta extensión nos sirve para colocar el color de las letras en colores neón.
 
 Este color de letra esta inspirado en la música y las bandas modernas de Synthwave como FM-84, Timecop 1983 y The Midnight.
 
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff4eee7d6-fa0d-407b-905e-273b16854aa2%2FIMG\_20210513\_214741.png?table=block\&id=ac08ed7d-f993-42f5-bd17-4f2393173847\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=1860\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
 
-![](/\_static/app-assets/images/12.jpg)
+
