@@ -48,5 +48,6 @@ Esta extensión nos sirve para colocar el color de las letras en colores neón.
 
 Este color de letra esta inspirado en la música y las bandas modernas de Synthwave como FM-84, Timecop 1983 y The Midnight.
 
-![](/\_static/app-assets/images/Captura%20de%20pantalla%202021-06-28%20172245.jpg)
 
+
+![](/\_static/app-assets/images/12.jpg)
