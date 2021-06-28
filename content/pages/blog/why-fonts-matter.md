@@ -51,6 +51,20 @@ el navegador
 
 ### **Instalación de Visual Studio Code:**
 
-En este enlace <https://code.visualstudio.com/>
+En este enlace <https://code.visualstudio.com/>  Poder descargar Visual Studio Code pudiendo descoger el sistema operativo que uses ya sea Windows, Linux, y macOS, ya con esto abriendo el sitio donde se generó la descarga podrás instalarlo siguiendo los pasos que se indican 
 
-jk
+### **Extensiones:**
+
+En esta parte puedes descargar las extensiones que mejor se adaten a a tus gustos tipo de letras, colores y los lenguajes que necesites: 
+
+Buscas el lenguaje que quieras descargar en este caso buscamos Python y presionamos en Installing  
+
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff4eee7d6-fa0d-407b-905e-273b16854aa2%2FIMG\_20210513\_214741.png?table=block\&id=ac08ed7d-f993-42f5-bd17-4f2393173847\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=1860\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
+
+
+
+
+
+
+
+
