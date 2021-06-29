@@ -64,7 +64,16 @@ esta es una extensión es muy útil,  nos facilita tener el código de una maner
 
 Como podemos observar en esta imagen resalta los espacios para ayudarnos con los espacios en el código
 
-
 ![](https://zacharytodd.com/images/posts/20200719/vscode-indentation-indent-rainbow.png)
 
-### &#xA;&#xA;&#xA;
+###
+
+### **Auto Close Tag:**
+
+esta extensión nos sirve para ahorrar tiempo en escribir, ya que si vamos a escribir  **\<html>** tendríamos que escribir o través lo mismo **\<html>** y con esta extensión eso de va a completar **automáticamente** sin necesidad de escribirlo dos veces se va auto completar 
+
+
+
+
+
+
