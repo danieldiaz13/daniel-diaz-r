@@ -67,8 +67,8 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+           Sed laoreet magna commodo libero euismod # sodales. Nunc ac libero
+    #      convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
     title: Lo último del Blog
