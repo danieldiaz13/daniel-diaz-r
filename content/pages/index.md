@@ -44,7 +44,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-  - section_id: testimonials
+  - #section_id: testimonials
     type: section_testimonials
     title: Testimonio
     subtitle: An optional subtitle of the section
