@@ -38,6 +38,7 @@ seo:
       value: images/11.jpg
       relativeUrl: true
 layout: post
+excerpt: g
 ---
 ### **SynthWave '84:**
 
