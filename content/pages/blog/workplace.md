@@ -70,10 +70,7 @@ Como podemos observar en esta imagen resalta los espacios para ayudarnos con los
 
 ### **Auto Close Tag:**
 
-esta extensión nos sirve para ahorrar tiempo en escribir, ya que si vamos a escribir  **\<html>** tendríamos que escribir o través lo mismo **\<html>** y con esta extensión eso de va a completar **automáticamente** sin necesidad de escribirlo dos veces se va auto completar 
+esta extensión nos sirve para ahorrar tiempo en escribir, ya que si vamos a escribir  **\<html>** tendríamos que escribir o través lo mismo **\<html>** y con esta extensión eso de va a completar **automáticamente** sin necesidad de escribirlo dos veces se va auto completar
 
-
-
-
-
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6911ed95-73b2-43c3-b586-da3cb3e5587c%2FCaptura_de_pantalla\_2021-06-29\_112821.png?table=block\&id=5e865b9d-75c8-4322-975f-3f3c7004d88c\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=2030\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
