@@ -52,4 +52,4 @@ Este color de letra esta inspirado en la música y las bandas modernas de Synthw
 
 Al descargarlo lo aplicamos en la dándole cli en la parte de **Set color Theme** en la parte de arriba se desplegara algo con el nombre de la extensión y le damas cli en esa parte.
 
-para acabar de configurar damos en **ctrl+ctrl+P**  ó en la parte de ajustes donde dice command palette, esto desplegara algo en la parte de arriba y en esa parte escribiremos \*\*">Synthwave '84:Enable Neon Dreams" \*\*esto ara que en la parte da abajo salga para resetear y le daremos permiso para hacerlo cuando esto acabe ya podremos ver que las letras cambiaran su color
+para acabar de configurar damos en **ctrl+ctrl+P**  ó en la parte de ajustes donde dice command palette, esto desplegara algo en la parte de arriba y en esa parte escribiremos **">Synthwave '84:Enable Neon Dreams"**  esto ara que en la parte da abajo salga para resetear y le daremos permiso para hacerlo cuando esto acabe ya podremos ver que las letras cambiaran su color
