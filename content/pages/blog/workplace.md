@@ -1,6 +1,6 @@
 ---
 title: Las 10 Extensiones que debes tener en Visual Studio Code
-date: '2019-03-24'
+date: '2021-06-29'
 thumb_image: /images/smiling-crane.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: /images/Banner_extensiones.jpg
