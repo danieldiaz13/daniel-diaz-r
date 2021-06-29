@@ -1,6 +1,8 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: >-
+  próximamente estarán los códigos que e realizado si tienes sugerencia de
+  alguno damelo a saber contactando conmigo
 layout_style: mosaic
 seo:
   title: Portfolio
