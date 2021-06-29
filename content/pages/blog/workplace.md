@@ -56,20 +56,15 @@ Al descargarlo lo aplicamos en la dándole cli en la parte de **Set color Theme*
 
 para acabar de configurar damos en **ctrl+ctrl+P**  ó en la parte de ajustes donde dice command palette, esto desplegara algo en la parte de arriba y en esa parte escribiremos **">Synthwave '84:Enable Neon Dreams"**  esto ara que en la parte da abajo salga para resetear y le daremos permiso para hacerlo cuando esto acabe ya podremos ver que las letras cambiaran su color
 
-
-
 ### **indent-rainbow:**
 
 esta es una extensión es muy útil,  nos facilita tener el código de una manera mas ordenada y hace que sea mas fácil observar si nos haca falta algún espacio o si tenemos algún espacio de mas.
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5308d892-a4bc-47d8-aeaf-32a56d73c719%2FCaptura_de_pantalla\_2021-06-29\_104952.png?table=block\&id=5c6c5106-62e6-4b2a-91e7-16540e52979d\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=2050\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
+Como podemos observar en esta imagen resalta los espacios para ayudarnos con los espacios en el código
 
-Como podemos observar en esta imagen resalta los espacios para ayudarnos con los espacios en el código 
+
 ![](https://zacharytodd.com/images/posts/20200719/vscode-indentation-indent-rainbow.png)
-
-
-
-
 
 ### &#xA;&#xA;&#xA;
