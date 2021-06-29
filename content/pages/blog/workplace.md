@@ -76,6 +76,16 @@ esta extensión nos sirve para ahorrar tiempo en escribir, ya que si vamos a esc
 
 proximamente estaran las otras extenciones si conoses algunas que deverian estar aca dimelo en :
 
-**correo: **danieldiaz132001@gmail.com 
+Correo: <danieldiaz13200@gmail.com>
 
-LinkedIn:  
+LinkedIn: [linkedin.com/in/daniel-felipe-diaz-rodriguez](https://www.linkedin.com/in/daniel-felipe-diaz-rodriguez)
+
+
+
+
+
+#### &#xA;&#xA;
+
+#### Twitter: <https://twitter.com/danieldiaz5174>
+
+#### LinkedIn: [www.linkedin.com/in/daniel-felipe-diaz-rodriguez](http://www.linkedin.com/in/daniel-felipe-diaz-rodriguez)
