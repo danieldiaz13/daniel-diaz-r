@@ -50,5 +50,6 @@ Este color de letra esta inspirado en la música y las bandas modernas de Synthw
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa97b2d2e-e8d3-4366-a625-f481499e6b81%2FCaptura_de_pantalla\_2021-06-28\_200236.png?table=block\&id=183e3aae-e93c-44de-85f8-431088b8e666\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=2730\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
+Al descargarlo lo aplicamos en la dándole cli en la parte de **Set color Theme **en la parte de arriba se desplegara algo con el nombre de la extensión y le damas cli en esa parte.
 
-
+para acabar de configurar damos en **ctrl+ctrl+P**  ó en la parte de ajustes donde dice command palette, esto desplegara algo en la parte de arriba y en esa parte escribiremos **">Synthwave '84:Enable Neon Dreams" **esto ara que en la parte da abajo salga para resetear y le daremos permiso para hacerlo cuando esto acabe ya podremos ver que las letras cambiaran su color 
