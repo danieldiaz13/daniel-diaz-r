@@ -45,10 +45,10 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
   - #section_id: testimonials
-    type: section_testimonials
-    title: Testimonio
-    subtitle: An optional subtitle of the section
-    col_number: three
+    #type: section_testimonials
+    #title: Testimonio
+    #subtitle: An optional subtitle of the section
+    #col_number: three
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
