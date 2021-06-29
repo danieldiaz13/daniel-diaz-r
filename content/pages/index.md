@@ -11,7 +11,7 @@ sections:
       Soy estudiante de electrónica con enfoques en la programación, logrando
       combinar estos dos maravillosos mundos de la tecnología
     actions:
-      - label: Let's talk
+      - label: Contactame
         url: /contact
         style: button
   - section_id: latest-projects
