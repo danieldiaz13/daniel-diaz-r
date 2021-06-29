@@ -20,7 +20,7 @@ sections:
     title: PROCIMAMENTE CODIGOS QUE E REALISADO
     subtitle: puedes contactarme para saber que código programa te gustaría ver
     projects_number: 6
-    view_all_label: View All
+    view_all_label: portfolio
     view_all_url: portfolio
   - section_id: services
     type: section_grid
