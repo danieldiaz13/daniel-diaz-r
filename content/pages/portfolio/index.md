@@ -2,7 +2,7 @@
 title: Portfolio
 subtitle: >-
   próximamente estarán los códigos que e realizado si tienes sugerencia de
-  alguno damelo a saber contactando conmigo
+  alguno dámelo a saber contactando conmigo
 layout_style: mosaic
 seo:
   title: Portfolio
