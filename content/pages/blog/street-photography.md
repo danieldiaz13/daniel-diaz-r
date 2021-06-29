@@ -1,5 +1,5 @@
 ---
-title: Understanding Street Photography
+title: Procimamente
 excerpt: ...
 date: '2019-03-10'
 thumb_image: images/8_thumb.jpg
