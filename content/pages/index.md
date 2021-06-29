@@ -24,16 +24,16 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+    #title: What We Do
+    #subtitle: An optional subtitle of the section
+    #col_number: two
+    #is_numbered: true
+    #grid_items:
+     # - title: Service Title
+      #  content: >-
+       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        #  ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+         # fringilla, fringilla.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
