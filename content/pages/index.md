@@ -18,7 +18,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: PROCIMAMENTE CODIGOS QUE E REALISADO
-    subtitle: An optional subtitle of the section
+    subtitle: puedes contactarme para saber que código programa te gustaría ver
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
