@@ -38,7 +38,7 @@ seo:
       value: images/11.jpg
       relativeUrl: true
 layout: post
-excerpt: "Aca encontraras como personalizar tu editor,\_ para que ala hora de programar setesea mas facili con las letras tipo neon, auto completado de tu codigo y mucho mas"
+excerpt: "Acá encontraras como personalizar tu editor,\_ para que ala hora de programar sete sea mas fácil con las letras tipo neón, auto completado de tu código y mucho mas"
 ---
 ### **SynthWave '84:**
 
