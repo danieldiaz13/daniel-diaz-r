@@ -1,5 +1,5 @@
 ---
-title: Extensiones de Visual Studio Code
+title: Las 10 Extensiones que debes tener en Visual Studio Code
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
