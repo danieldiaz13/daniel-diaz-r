@@ -1,8 +1,5 @@
 ---
 title: Las 10 Extensiones que debes tener en Visual Studio Code
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2019-03-24'
 thumb_image: /images/smiling-crane.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
