@@ -5,7 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      # Hola soy Daniel Diaz y soy programador&#xA;&#xA;
+      #
+      ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6b95a84e-0289-4126-b21e-b1b8e90ddd46%2FCaptura_de_pantalla\_2021-06-22\_232956.png?table=block\&id=f63c131f-bf3b-4268-bb9e-916eab7cffb4\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=750\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)&#xA;&#xA;![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6b95a84e-0289-4126-b21e-b1b8e90ddd46%2FCaptura_de_pantalla\_2021-06-22\_232956.png?table=block\&id=f63c131f-bf3b-4268-bb9e-916eab7cffb4\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=750\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
+
+
+      ### **Hola soy Daniel Diaz y soy programador**&#xA;&#xA;
 
 
       Soy estudiante de electrónica con enfoques en la programación, logrando
