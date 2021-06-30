@@ -23,9 +23,9 @@
                 "style": "link"
             },
             {
-                //"label": "Style Guide",
-                //"url": "/style-guide/",
-                //"style": "link"
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
             },
             {
                 "label": "Cursos y Certificados",
