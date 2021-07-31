@@ -1,5 +1,5 @@
 ---
-title: Estos son Algu
+title: Estos son Algunos de mis Proyrctos
 subtitle: >-
   próximamente estarán los códigos que e realizado si tienes sugerencia de
   alguno dámelo a saber contactando conmigo
