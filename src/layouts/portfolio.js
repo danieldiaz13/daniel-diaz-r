@@ -17,6 +17,7 @@ export default class Portfolio extends React.Component {
                     {thumbImage && (
                         <div className="project-thumbnail">
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
+                            <img
                         </div>
                     )}
                     <header className="project-header">
