@@ -1,8 +1,9 @@
 ---
-title: Portfolio
+title: Estos son Algunos de mis Proyectos
 subtitle: >-
-  próximamente estarán los códigos que e realizado si tienes sugerencia de
-  alguno dámelo a saber contactando conmigo
+  Acá encontraras los proyectos que e echo con diferentes lenguajes de
+  programación encontraras el código y una breve explicación si tienes alguna
+  duda o algún aporte me puedes contactar
 layout_style: mosaic
 seo:
   title: Portfolio
