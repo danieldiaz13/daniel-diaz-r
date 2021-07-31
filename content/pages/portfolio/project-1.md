@@ -1,5 +1,5 @@
 ---
-title: Básico de T
+title: Básico de HTML y CSS
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/kind-eucalyptus.png
