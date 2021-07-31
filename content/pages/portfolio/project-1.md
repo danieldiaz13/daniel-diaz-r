@@ -1,7 +1,7 @@
 ---
 title: Básico de HTML y CSS
 date: '2021-07-30'
-thumb_image: /images/1.jpg
+thumb_image: /images/Captura_de_pantalla_2021-07-30_214742.png
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
