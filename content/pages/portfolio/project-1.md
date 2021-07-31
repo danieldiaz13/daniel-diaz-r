@@ -1,9 +1,10 @@
 ---
 title: Básico de HTML y CSS
 date: '2021-07-30'
-thumb_image: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6ac46134-a01f-4606-9148-54a257cd1d8d%2FCaptura_de_pantalla_2021-07-30_225200.png?id=2f37d46d-d73c-4f09-bac8-6c4d7753a4d1&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1840&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
-image: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6ac46134-a01f-4606-9148-54a257cd1d8d%2FCaptura_de_pantalla_2021-07-30_225200.png?id=2f37d46d-d73c-4f09-bac8-6c4d7753a4d1&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1840&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2 ##images/1.jpg##
-
+thumb_image: >-
+  https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6ac46134-a01f-4606-9148-54a257cd1d8d%2FCaptura_de_pantalla_2021-07-30_225200.png?id=2f37d46d-d73c-4f09-bac8-6c4d7753a4d1&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1840&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
+image: >-
+  https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6ac46134-a01f-4606-9148-54a257cd1d8d%2FCaptura_de_pantalla_2021-07-30_225200.png?id=2f37d46d-d73c-4f09-bac8-6c4d7753a4d1&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1840&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
@@ -32,14 +33,40 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: HTML y CSS
+subtitle: Interfaz de de inicio de búsqueda y inicio de sesión
 thumb_image_alt: THML y CSS
 ---
+Estos son los primeros ´pasos en HTML y CSS en este proyecto se basa en mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+La interfaz de brusquedad puedes ver como lo que quieres ver se resalta y la forma del corsos cambia, ver los iconos de que usual mente vemos para agregar o reproducir algún video, los detalles que tiene el buscador, en la parte superior derecha encontraras un perfil el el cual si pasas el cursor por el saldrá cuenta y iniciar sesión 
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+La internas de inicio puede encontrar como se mesclan dos colores, como se ubican los espacio de la contraseña como se pone una imagen y un escrito al lado de ella
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Te recomiendo esos sitios con los cuales saque los colores, la letra, los iconos y imágenes gratis
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Colores:  <https://coolors.co/cb997e-ddbea9-ffe8d6-b7b7a4-a5a58d-6b705c> 
+
+Tipo de letra: <https://fonts.google.com/>  
+
+Iconos: <https://iconos8.es/icons/set/user> 
+
+Imágenes gratis:  <https://www.pexels.com/es-es/>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
