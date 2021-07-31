@@ -1,5 +1,5 @@
 ---
-title: Báci
+title: Básico de T
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/kind-eucalyptus.png
