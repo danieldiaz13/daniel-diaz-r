@@ -1,7 +1,7 @@
 ---
 title: Básico de HTML y CSS
 date: '2021-07-30'
-thumb_image: /https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff272cd00-de78-431c-b402-f9bdbf43d2cb%2FCaptura_de_pantalla_2021-07-30_214742.png?id=76358ed7-4c7d-4add-b4ba-26d83a5ec72e&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=2610&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
+thumb_image: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff272cd00-de78-431c-b402-f9bdbf43d2cb%2FCaptura_de_pantalla_2021-07-30_214742.png?id=76358ed7-4c7d-4add-b4ba-26d83a5ec72e&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=2610&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
