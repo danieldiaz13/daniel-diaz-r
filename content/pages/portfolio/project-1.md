@@ -38,35 +38,17 @@ thumb_image_alt: THML y CSS
 ---
 Estos son los primeros ´pasos en HTML y CSS en este proyecto se basa en mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
 
-La interfaz de brusquedad puedes ver como lo que quieres ver se resalta y la forma del corsos cambia, ver los iconos de que usual mente vemos para agregar o reproducir algún video, los detalles que tiene el buscador, en la parte superior derecha encontraras un perfil el el cual si pasas el cursor por el saldrá cuenta y iniciar sesión 
+La interfaz de brusquedad puedes ver como lo que quieres ver se resalta y la forma del corsos cambia, ver los iconos de que usual mente vemos para agregar o reproducir algún video, los detalles que tiene el buscador, en la parte superior derecha encontraras un perfil el el cual si pasas el cursor por el saldrá cuenta y iniciar sesión
 
 La internas de inicio puede encontrar como se mesclan dos colores, como se ubican los espacio de la contraseña como se pone una imagen y un escrito al lado de ella
 
-Te recomiendo esos sitios con los cuales saque los colores, la letra, los iconos y imágenes gratis
+## Te recomiendo esos sitios con los cuales saque los colores, la letra, los iconos y imágenes gratis
 
-Colores:  <https://coolors.co/cb997e-ddbea9-ffe8d6-b7b7a4-a5a58d-6b705c> 
+Colores:  <https://coolors.co/cb997e-ddbea9-ffe8d6-b7b7a4-a5a58d-6b705c>
 
-Tipo de letra: <https://fonts.google.com/>  
+Tipo de letra: <https://fonts.google.com/>
 
-Iconos: <https://iconos8.es/icons/set/user> 
+Iconos: <https://iconos8.es/icons/set/user>
 
-Imágenes gratis:  <https://www.pexels.com/es-es/>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Imágenes gratis:  <https://www.pexels.com/es-es/> 
 
