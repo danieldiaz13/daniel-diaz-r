@@ -82,9 +82,17 @@ Esta extensión sirve para darle un color a tu espacio de trabajo, después de a
 
 *   salesianas la parte donde dice Peacock : change to a favorite color
 
-*   salesianas el color que mas te gusta y esto seria todo 
+*   salesianas el color que mas te gusta y esto seria todo
+
+
+
+![](https://www.peacockcode.dev/assets/peacock-windows.png)
 
 ***
+
+
+
+
 
 próximamente estarán las otras extensiones si conoces algunas que deberían estar acá dímelo en :
 
