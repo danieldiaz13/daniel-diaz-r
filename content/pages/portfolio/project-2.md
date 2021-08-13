@@ -2,7 +2,7 @@
 title: js
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: /images/Captura de pantalla 2021-08-13 134910.png
+thumb_image: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d6a9cb3-920e-4806-b5e7-54536d772d11%2FCaptura_de_pantalla_2021-08-13_134910.png?id=24ec59c2-68e4-4343-ae61-a7c29f8d2963&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1850&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
