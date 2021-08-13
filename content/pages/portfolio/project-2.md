@@ -1,5 +1,5 @@
 ---
-title: implementando JavaScript
+title: Implementando JavaScript
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: >-
