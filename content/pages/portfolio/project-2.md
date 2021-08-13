@@ -1,11 +1,12 @@
 ---
 title: Implementando JavaScript
-subtitle: Optional Project Subtitle
+subtitle: JavaScript
 date: '2019-04-30'
 thumb_image: >-
   https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d6a9cb3-920e-4806-b5e7-54536d772d11%2FCaptura_de_pantalla_2021-08-13_134910.png?id=24ec59c2-68e4-4343-ae61-a7c29f8d2963&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1850&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 thumb_image_alt: An orange on a blue background
-image: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F79d9be1c-d306-40a7-b550-ec1353631d28%2FCaptura_de_pantalla_2021-08-13_134811.png?id=10a42be9-d4f3-4109-a6b3-beae862f489f&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=2470&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
+image: >-
+  https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F79d9be1c-d306-40a7-b550-ec1353631d28%2FCaptura_de_pantalla_2021-08-13_134811.png?id=10a42be9-d4f3-4109-a6b3-beae862f489f&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=2470&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
