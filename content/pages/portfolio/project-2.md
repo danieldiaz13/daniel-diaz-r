@@ -38,7 +38,7 @@ layout: project
 ---
 Este código esta enfocado en la funcionalidad de JavaScript implementando un poco de CSS Y HTML para darle una visualización al código.
 
-Podrás encontrar 4 partes las culés cada una tiene una diferente función: 
+Podrás encontrar 4 partes las culés cada una tiene una diferente función:
 
 1Figuras: acá podar resolver figuras geométricas como el cuadrado, el triángulo, el circulo y el triángulo isósceles.
 
@@ -50,9 +50,4 @@ Podrás encontrar 4 partes las culés cada una tiene una diferente función:
 
 ## **URL del código:**
 
-****<https://danieldiaz13.github.io/JavaScript/index.html>
-
-
-
-
-
+<https://danieldiaz13.github.io/JavaScript/index.html>
