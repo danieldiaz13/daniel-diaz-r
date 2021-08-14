@@ -20,7 +20,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: PRÓXIMAMENTE CODIGOS QUE E REALISADO
+    title: PRÓXIMAMENTE CÓDIGOS QUE HE REALIZADO
     subtitle: puedes contactarme para saber que código programa te gustaría ver
     projects_number: 6
     view_all_label: portfolio
