@@ -16,8 +16,8 @@ sections:
 
        Para indicar que te gusto mi contenido, darme alguna sugerencia, algún contenido que quisieras ver, hablar de programación o algún error que encuentres házmelo saber por alguno de los siguientes medios
 
-       #### Correo: danieldiaz13200@gmail.com
-       #### Twitter: https://twitter.com/danieldiaz517
+       #### Correo: programadordanieldiaz@gmail.com
+       #### Twitter: https://twitter.com/danieldiaz5174
        #### LinkedIn: www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
 seo: 
   title: Contact
