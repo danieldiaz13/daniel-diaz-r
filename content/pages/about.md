@@ -55,3 +55,4 @@ DIPLOMA DEL CURSO: https://platzi.com/p/danieldiaz5174/curso/1557-git-github/dip
 Diploma de la Ruta de Aprendizaje de Ciencias
 
 
+Diploma de la Ruta de Aprendizaje de Ciencias 
