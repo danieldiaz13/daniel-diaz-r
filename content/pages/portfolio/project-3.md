@@ -1,6 +1,6 @@
 ---
-title: Project Title 3
-subtitle: Optional Project Subtitle
+title: PRÓXIMAMENTE JUEGO EN RUBY
+subtitle: Juego simple de la culebrita
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
