@@ -4,7 +4,7 @@ subtitle: En proceso juego simple de la culebrita
 date: '2019-04-08'
 thumb_image: /images/74fe79e3dd9dc4a82eeb9083b9e48813.webp
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: /images/maxresdefault (1).jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
