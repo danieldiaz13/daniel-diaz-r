@@ -34,15 +34,19 @@ seo:
       relativeUrl: true
 layout: project
 ---
-## Descarga Ruby: <https://www.ruby-lang.org/es/downloads/>    
+## Descarga Ruby: <https://www.ruby-lang.org/es/downloads/>
 
+## Ruby 2D: <http://www.ruby2d.com/learn/get-started/>
 
+# VSC para Ruby:
 
-## Ruby 2D: <http://www.ruby2d.com/learn/get-started/>  
+*   [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby)
 
+*   [Ruby Language Colorization](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 
+*   [Ruby Linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.ruby-linter)
 
-# VSC para Ruby:&#xA;[VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby)&#xA;[Ruby Language Colorization](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)&#xA;[Ruby Linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.ruby-linter)&#xA;[Rufo Ruby Formatter](https://marketplace.visualstudio.com/items?itemName=jnbt.vscode-rufo)
+*   [Rufo Ruby Formatter](https://marketplace.visualstudio.com/items?itemName=jnbt.vscode-rufo)
 
 ##
 
