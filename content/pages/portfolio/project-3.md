@@ -1,5 +1,5 @@
 ---
-title: PRÓXIMAMENT JUEGO EN RUBY
+title: PRÓXIMAMENT JUEGO ENRUBY
 subtitle: Juego simple de la culebrita
 date: '2019-04-08'
 thumb_image: /images/74fe79e3dd9dc4a82eeb9083b9e48813.webp
