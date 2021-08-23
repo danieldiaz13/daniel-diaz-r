@@ -3,23 +3,43 @@ title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections:
   - type: section_form
-    content: |
-       # ¿Quién soy?
-       Soy colombiano actualmente me encuentro estudiando la carrera de electrónica en la universidad del valle estando en la universidad conocí en mundo de la programación y decidí como ser más afondo este mundo así que comencé a estudiar programación en Platiz   
+    content: >
+      # ¿Quién soy?
 
-       # Enfocado en
-       Circuitos electrónicos, JavaScript, Python,
 
-       
-       # Trayectoria 
-       Llevo 2 años en la universidad del valle en la carrera de electrónica, enfocado en Platiz asiendo cursos y retos los cuales puedes observar en mi perfil de LinkedIn www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
+      Soy colombiano actualmente me encuentro estudiando la carrera de
+      electrónica en la universidad del valle estando en la universidad conocí
+      el mundo de la programación y decidí conocer más afondo este mundo así que
+      comencé a estudiar programación en Platiz
 
-       Para indicar que te gusto mi contenido, darme alguna sugerencia, algún contenido que quisieras ver, hablar de programación o algún error que encuentres házmelo saber por alguno de los siguientes medios
 
-       #### Correo: programadordanieldiaz@gmail.com
-       #### Twitter: https://twitter.com/danieldiaz5174
-       #### LinkedIn: www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
-seo: 
+      # Enfocado en
+
+
+      Circuitos electrónicos, lenguajes de programación 
+
+
+      # Trayectoria
+
+
+      Llevo 2 años en la universidad del valle en la carrera de electrónica,
+      enfocado en Platiz asiendo cursos y retos los cuales puedes observar en mi
+      perfil de LinkedIn www.linkedin.com/in/daniel-felipe-diaz-rodriguez
+
+
+      Para indicar que te gusto mi contenido, darme alguna sugerencia, algún
+      contenido que quisieras ver, hablar de programación o algún error que
+      encuentres házmelo saber por alguno de los siguientes medios
+
+
+      #### Correo: programadordanieldiaz@gmail.com
+
+
+      #### Twitter: https://twitter.com/danieldiaz5174
+
+
+      #### LinkedIn: www.linkedin.com/in/daniel-felipe-diaz-rodriguez
+seo:
   title: Contact
   description: This is the contact page
   extra:
