@@ -30,6 +30,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+
+
 Diploma de la Escuela de JavaScript:https://platzi.com/p/danieldiaz5174/ruta/100-escuela-javascript/diploma/detalle/
 
 ## Datacademy
