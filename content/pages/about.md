@@ -30,6 +30,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Diploma de la Escuela de JavaScript:
+
 ## Datacademy
 
 Datacademy fue un reto que saco Platzi el cual consistía en tomar 6 cursos los
