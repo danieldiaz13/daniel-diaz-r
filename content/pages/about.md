@@ -1,9 +1,7 @@
 ---
 title: Datacademyh
 subtitle: >-
-  Datacademy fue un reto que saco Platzi el cual consistía en tomar 6 cursos los
-  cuales se tomaban uno por semana. Estos fueron los requisitos para culminar el
-  reto.
+ jj
 seo:
   title: About Us
   description: This is the about us page
