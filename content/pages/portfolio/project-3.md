@@ -34,9 +34,17 @@ seo:
 layout: project
 thumb_image: /images/ddescarga-3f2dc0a1.png
 ---
-### Descarga Ruby: <https://www.ruby-lang.org/es/downloads/>
+# **¿Qué es React?**
 
-### Ruby 2D: <http://www.ruby2d.com/learn/get-started/>
+Es una librería *open source* de JavaScript para desarrollar interfaces de usuario. Fue lanzada en el año 2013 y desarrollada por Facebook, quienes también la mantienen actualmente junto a una comunidad de desarrolladores independientes y compañías.
+
+Hoy en día muchas empresas de primer nivel utilizan React para el desarrollo de sus aplicaciones, y es que entre ellas podemos encontrar Facebook, Instagram y el cliente web de WhastApp  (todas propiedad de Facebook), y otras como AirBnb, Uber, Netflix, Twitter, Reddit o Paypal.
+
+
+
+
+
+
 
 ### VSC para Ruby:
 
@@ -54,11 +62,9 @@ thumb_image: /images/ddescarga-3f2dc0a1.png
 
 *   [Rufo Ruby Formatter](https://marketplace.visualstudio.com/items?itemName=jnbt.vscode-rufo)
 
-
-
 ## Código:
 
-próximamente estaré subiendo código en este lenguaje   
+próximamente estaré subiendo código en este lenguaje
 
 ##
 
