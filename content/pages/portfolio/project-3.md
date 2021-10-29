@@ -1,6 +1,6 @@
 ---
 title: REACT JS
-subtitle: se implementara JavaScript y React para uno tienda de compras en linea
+subtitle: Se implementara JavaScript y React para uno tienda de compras en linea
 date: '2021-10-29'
 thumb_image_alt: null
 image: null
