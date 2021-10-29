@@ -1,7 +1,7 @@
 ---
 title: Diploma de la Escuela de JavaScript
 subtitle: >-
- 
+ esta escuela contiene
 seo:
   title: About Us
   description: This is the about us page
