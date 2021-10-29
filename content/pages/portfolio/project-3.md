@@ -32,6 +32,7 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: project
+thumb_image: /images/ddescarga.png
 ---
 ### Descarga Ruby: <https://www.ruby-lang.org/es/downloads/>
 
