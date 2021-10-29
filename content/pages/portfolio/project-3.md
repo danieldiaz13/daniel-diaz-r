@@ -1,6 +1,6 @@
 ---
 title: REACT JS
-subtitle: En proceso juego simple de la culebrita
+subtitle: rea
 date: '2021-10-29'
 thumb_image_alt: >-
 https://sigdeletras.com/images/blog/202004_react_leaflet/react.png
