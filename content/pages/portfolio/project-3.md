@@ -1,5 +1,5 @@
 ---
-title: RE
+title: REA
 subtitle: En proceso juego simple de la culebrita
 date: '2021-10-29'
 thumb_image: >-
