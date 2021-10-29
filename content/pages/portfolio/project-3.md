@@ -34,11 +34,17 @@ seo:
 layout: project
 thumb_image: /images/ddescarga-3f2dc0a1.png
 ---
-# **¿Qué es React?**
+## **¿Qué es React?**
 
 Es una librería *open source* de JavaScript para desarrollar interfaces de usuario. Fue lanzada en el año 2013 y desarrollada por Facebook, quienes también la mantienen actualmente junto a una comunidad de desarrolladores independientes y compañías.
 
 Hoy en día muchas empresas de primer nivel utilizan React para el desarrollo de sus aplicaciones, y es que entre ellas podemos encontrar Facebook, Instagram y el cliente web de WhastApp  (todas propiedad de Facebook), y otras como AirBnb, Uber, Netflix, Twitter, Reddit o Paypal.
+
+## **Tienda**
+
+esto es lo que iremos hacer con el código que acá les traigo un inicio de haceos podemos agregar al carito nuestras compraras 
+
+
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffc990ee0-0c88-4ca7-98b3-565fe86f9387%2FCaptura_de_pantalla\_2021-10-29\_170654.png?id=b6f731fa-1745-421f-8a5b-900f8f8ad145\&table=block\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=2000\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
