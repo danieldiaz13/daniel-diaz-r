@@ -1,7 +1,7 @@
 ---
 title: RUBY
 subtitle: En proceso juego simple de la culebrita
-date: '2019-04-08'
+date: '2021-04-08'
 thumb_image_alt: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0e507a6c-b31c-48c8-9668-0de0e86583db%2Fddescarga.png?id=d2833ae5-43d8-469f-9796-92a34fe493d1&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=600&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 image: /images/maxresdefault (1).jpg
 image_alt: A yellow retro telephone on a yellow background
