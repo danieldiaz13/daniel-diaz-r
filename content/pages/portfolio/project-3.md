@@ -40,29 +40,9 @@ Es una librería *open source* de JavaScript para desarrollar interfaces de us
 
 Hoy en día muchas empresas de primer nivel utilizan React para el desarrollo de sus aplicaciones, y es que entre ellas podemos encontrar Facebook, Instagram y el cliente web de WhastApp  (todas propiedad de Facebook), y otras como AirBnb, Uber, Netflix, Twitter, Reddit o Paypal.
 
+![](/images/Captura%20de%20pantalla%202021-10-29%20170654.png)
 
-
-
-
-
-
-### VSC para Ruby:
-
-*   [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby)
-
-<!---->
-
-*   [Ruby Language Colorization](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
-
-<!---->
-
-*   [Ruby Linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.ruby-linter)
-
-<!---->
-
-*   [Rufo Ruby Formatter](https://marketplace.visualstudio.com/items?itemName=jnbt.vscode-rufo)
-
-## Código:
+# **Código:**
 
 próximamente estaré subiendo código en este lenguaje
 
