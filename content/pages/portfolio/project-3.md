@@ -2,7 +2,7 @@
 title: RE
 subtitle: En proceso juego simple de la culebrita
 date: '2021-10-29'
-thumb_image:
+thumb_image: >-
 https://sigdeletras.com/images/blog/202004_react_leaflet/react.png
 image: https://sigdeletras.com/images/blog/202004_react_leaflet/react.png
 thumb_image_alt: An orange on a blue background
