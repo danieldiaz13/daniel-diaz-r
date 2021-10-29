@@ -1,7 +1,7 @@
 ---
 title: Estos son Algunos de mis Proyectos
 subtitle: >-
-  Acá encontraras los proyectos que e echo con diferentes lenguajes de
+  Acá encontraras los proyectos que e hecho con diferentes lenguajes de
   programación encontraras el código y una breve explicación si tienes alguna
   duda o algún aporte me puedes contactar
 layout_style: mosaic
