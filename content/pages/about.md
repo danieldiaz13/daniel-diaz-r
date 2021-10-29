@@ -1,5 +1,5 @@
 ---
-title: h
+title: Diploma de la Escuela de JavaScript
 subtitle: >-
  jj
 seo:
