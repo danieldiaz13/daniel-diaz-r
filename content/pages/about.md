@@ -1,7 +1,7 @@
 ---
 title: Diploma de la Escuela de JavaScript
 subtitle: >-
- Esta escuela contiene 18 cursos los cuales  
+ Esta escuela contiene 18 cursos los cuales se vanas en JavaScript 
 seo:
   title: About Us
   description: This is the about us page
