@@ -4,7 +4,7 @@ subtitle: En proceso juego simple de la culebrita
 date: '2021-10-29'
 thumb_image_alt: https://sigdeletras.com/images/blog/202004_react_leaflet/react.png
 image: https://sigdeletras.com/images/blog/202004_react_leaflet/react.png
-thumb_image_alt: An orange on a blue background
+
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
