@@ -1,9 +1,9 @@
 ---
 title: REACT JS
-subtitle: rea
+subtitle: se impliementara JavaScript y React para uno tienda de compras en linea
 date: '2021-10-29'
-thumb_image_alt:
-image: 
+thumb_image_alt: null
+image: null
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
