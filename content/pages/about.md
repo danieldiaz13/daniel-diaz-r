@@ -30,7 +30,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![]()
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7fbdff4d-16f4-41f9-9d5e-392b8d6f7fe6%2Fdanieldiaz.png?table=block&id=1e9612c4-d4b0-4c6e-85bd-020c8cbe6538&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1500&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
 
 Diploma de la Escuela de JavaScript:https://platzi.com/p/danieldiaz5174/ruta/100-escuela-javascript/diploma/detalle/
 
