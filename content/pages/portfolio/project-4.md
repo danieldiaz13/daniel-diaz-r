@@ -5,7 +5,7 @@ date: '2021-11-13'
 thumb_image: >-
   https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2b0a397f-21f1-4338-ac98-f479c6b247dc%2FCaptura_de_pantalla_2021-10-30_202511.png?id=d9c9efd2-79a9-4d56-95d5-31348f444a0a&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=2000&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 thumb_image_alt: A table tennis racket on a pink background
-image: /images/Captura de pantalla 2021-10-30 202511.png
+image:  https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2b0a397f-21f1-4338-ac98-f479c6b247dc%2FCaptura_de_pantalla_2021-10-30_202511.png?id=d9c9efd2-79a9-4d56-95d5-31348f444a0a&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=2000&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
