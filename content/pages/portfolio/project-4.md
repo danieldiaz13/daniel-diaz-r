@@ -38,18 +38,14 @@ layout: project
 ---
 En este código se implementa JavaScript, CSS y HTML. Con esto logrando obtener una plata forma para poder reproducir videos la cual cuenta con un botón para parle play y pause al video y con otro botón el cual el funcionamiento es ponerle en mute o en unmute.
 
-
-
 El video es de Josed Mauricio Medina Espada el cual es entrevistado por Lady Andrea Diaz Reyes  para su proceso de formación en el SENA,
 el video se trata respecto a la experiencia en el SENA CSF de Josed Mauricio Medina Espada.
 
-## contacto:
+## Contacto:
 
 Lady Andrea Diaz Reyes
 
 Contacto : ladydiaz479@gmail.com
-
-
 
 Josed Mauricio Medina Espada
 
@@ -57,13 +53,19 @@ Contacto: [Linkedin](https://www.linkedin.com/in/josed-mauricio-medina-espada)
 
 
 
+## Código
+
+En mi GitHub podrás encontrar el código con el cual fue creado este reproductor de videos la estructura que se uso en el archivo de CSS la forma en que se implementa JavaScript y el HTML que no puede faltar para tener tu sitio en el navegador.
+
+### Código de la plata forma en GitHub
+
+código: <https://github.com/danieldiaz13/VIDEO/settings/pages> 
 
 
 
-Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
+## Sitio de reproductor de video
 
-> "Designers are meant to be loved, not to be understood." - Margaret Oscar
+Acá en este link esta el reproductor de video podrás ver como quedo en su fase final.
 
-Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
+Reproductor de video: <https://danieldiaz13.github.io/VIDEO/>
 
-Tortor consequat id porta nibh. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Ante metus dictum at tempor. Consectetur adipiscing elit ut aliquam purus. Mauris in aliquam sem fringilla. Sed adipiscing diam donec adipiscing tristique. Posuere ac ut consequat semper viverra nam libero justo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Molestie nunc non blandit massa enim nec. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Ac turpis egestas integer eget aliquet. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis ipsum suspendisse ultrices gravida dictum fusce. Elit ullamcorper dignissim cras tincidunt lobortis. Non enim praesent elementum facilisis leo vel. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Senectus et netus et malesuada fames. Massa sed elementum tempus egestas sed sed.
