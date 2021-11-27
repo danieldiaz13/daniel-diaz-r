@@ -82,4 +82,4 @@ Diploma del JS CHALLENGE primera etapa: https://platzi.com/p/danieldiaz5174/curs
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fab056bec-d58c-4782-b54b-067d500d0422%2FCaptura_de_pantalla_2021-11-27_114231.png?id=50d4eac4-6972-4afa-a7ac-8eaa196985b7&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1330&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
 
-Diploma del JS CHALLENGE segunda etapa: https://platzi.com/p/danieldiaz5174/curso/2503-jschallenge-fase1/diploma/detalle/
+Diploma del JS CHALLENGE segunda etapa: https://platzi.com/p/danieldiaz5174/curso/2610-jschallenge-fase2/diploma/detalle/
