@@ -81,3 +81,5 @@ Diploma del Curso de Programación Orientada a Objetos: https://platzi.com/p/dan
 Diploma del JS CHALLENGE primera etapa: https://platzi.com/p/danieldiaz5174/curso/2503-jschallenge-fase1/diploma/detalle/
 
 ![]()
+
+Diploma del JS CHALLENGE primera etapa: https://platzi.com/p/danieldiaz5174/curso/2503-jschallenge-fase1/diploma/detalle/
