@@ -74,4 +74,4 @@ Diploma de la Ruta de Aprendizaje de Ciencias: https://platzi.com/p/danieldiaz51
 
 Diploma del Curso de Programación Orientada a Objetos: https://platzi.com/p/danieldiaz5174/curso/1474-course/diploma/detalle/
 
-## PRÓXIMAMENTE JS CHALLENGE
+## JS CHALLENGE
