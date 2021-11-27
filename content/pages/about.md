@@ -78,4 +78,4 @@ Diploma del Curso de Programación Orientada a Objetos: https://platzi.com/p/dan
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8dcd5b66-7b3e-43cb-88bb-be47b033dd0a%2FCaptura_de_pantalla_2021-11-27_110326.png?id=92b032eb-460c-43d0-b6a8-56425daab493&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1420&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
 
-Diploma del Curso de Programación Orientada a Objetos: 
+Diploma del Curso de Programación Orientada a Objetos: https://platzi.com/p/danieldiaz5174/curso/2503-jschallenge-fase1/diploma/detalle/
