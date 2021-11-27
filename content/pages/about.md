@@ -84,4 +84,4 @@ Diploma del JS CHALLENGE primera etapa: https://platzi.com/p/danieldiaz5174/curs
 
 Diploma del JS CHALLENGE segunda etapa: https://platzi.com/p/danieldiaz5174/curso/2610-jschallenge-fase2/diploma/detalle/
 
-##PYTHON
+## PYTHON
