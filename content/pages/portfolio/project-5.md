@@ -50,7 +50,9 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 ### **Filtros para diferentes redes sociales**
 
-#### **terror-daniel**&#xA;<https://www.instagram.com/ar/995167001080959/>
+**terror-daniel**
+
+#### <https://www.instagram.com/ar/995167001080959/>
 
 ##
 
