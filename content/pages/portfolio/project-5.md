@@ -52,7 +52,7 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 **terror-daniel**
 
-![](https://scontent.feoh2-1.fna.fbcdn.net/v/t39.10260-6/p60x60/271861615_446580910446484_8022963226931181353_n.png?_nc_cat=111&ccb=1-5&_nc_sid=df6b83&_nc_eui2=AeEnc603kzxOqQKgkoo2oCdfnt82jNHnW7ee3zaM0edbt9LQm1QqvMzCuEdOPhdd_3zcezvfhnMldqIiq8ZJTpMm&_nc_ohc=s23Be5zLZScAX8YzFp5&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-cx_HaTIU0EO_vlEyZamVp4_XlSrm6kjGi-O6LyWnjjg&oe=620D8401)
+![](https://cdn.fbsbx.com/v/t65.23977-21/271494556_891578744856464_7209111914523840259_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=56eb5b&_nc_eui2=AeHal9Qu9LnS7tLCYJPBAw1rQL2NJqEt3z5AvY0moS3fPjZ3BoAZroMiKArqDpm2ru8evZv1kJhaE6VDfGDEYboN&_nc_ohc=nyWLeuFCMBoAX_3ueuG&_nc_ht=cdn.fbsbx.com&oh=00_AT_A2fqFJBnS-xtj_cMJ0eJYObMttF26zP5iEMsiRh4ycQ&oe=6209D054)
 #### <https://www.instagram.com/ar/995167001080959/>
 
 ##
