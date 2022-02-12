@@ -48,7 +48,7 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 #### Curso Básico de Photoshop&#xA;&#xA;
 
-# Filtros para diferentes redes sociales
+### **Filtros para diferentes redes sociales**
 
 ##
 
