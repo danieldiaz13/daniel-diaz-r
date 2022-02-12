@@ -34,28 +34,22 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para esta nueva era que se viera para aprender un poco dé este cambio que meta quiere implementar al mundo entero que es el Meta verso 
+Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para esta nueva era que se viera para aprender un poco dé este cambio que meta quiere implementar al mundo entero que es el Meta verso
 
+## **Cursos tomados para aprobar el reto**
 
+### Curso de Creación de Filtros Faciales para Instagram con Spark AR
 
-# **Cursos tomados para aprobar el reto**
+### <https://platzi.com/p/danieldiaz5174/curso/2647-course/diploma/detalle/>
 
-## Curso de Creación de Filtros Faciales para Instagram con Spark AR
+### Curso de Creación de Filtros 3D para Instagram con Spark AR&#xA;<https://platzi.com/p/danieldiaz5174/curso/2667-course/diploma/detalle/>
 
-<https://platzi.com/p/danieldiaz5174/curso/2647-course/diploma/detalle/>
-
-## Curso de Creación de Filtros 3D para Instagram con Spark AR&#xA;<https://platzi.com/p/danieldiaz5174/curso/2667-course/diploma/detalle/>
-
-## Curso Básico de Photoshop&#xA;&#xA;
+### Curso Básico de Photoshop&#xA;&#xA;
 
 # Filtros para diferentes redes sociales
 
-
-
 ##
 
 ##
 
-
-
-****
+***
