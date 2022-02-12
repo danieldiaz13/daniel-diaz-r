@@ -52,7 +52,6 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 **terror-daniel**
 
-
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F34fcf7e8-fa2f-418e-96c6-933d29c5028b%2FCaptura_de_pantalla_(2167).png?table=block&id=cdd27336-50c5-40cb-8655-099bceba79ab&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=830&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
 
 #### <https://www.instagram.com/ar/995167001080959/>
