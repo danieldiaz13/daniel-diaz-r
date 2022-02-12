@@ -60,6 +60,6 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F91425835-2b79-4faa-af7c-0fb4e9bbf5ef%2F1644262419520.jpg?table=block&id=fec1251a-643b-4cae-ab9c-911b813e3191&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1440&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
 
 ### https://www.instagram.com/ar/475322594179633/
-### https://www.facebook.com/fbcameraeffects/tryit/475322594179633/
+### https://www.facebook.com/fbcameraeffects/tryit/475322594179633/>
 
 ***
