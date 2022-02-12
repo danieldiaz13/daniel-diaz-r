@@ -63,5 +63,5 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 ### <https://www.facebook.com/fbcameraeffects/tryit/475322594179633/>
 
 **terror**
-![]
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F83be3b62-d1e6-4aae-96ef-f2f68abe2616%2FCaptura_de_pantalla_(2170).png?table=block&id=9d88efab-1ffe-4022-9304-d8fbddf24544&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=820&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
 ***
