@@ -1,7 +1,7 @@
 ---
 title: Filtros para Instagram
 subtitle: Reto de Platzi con Meta
-date: '2019-01-05'
+date: '2022-01-05'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
