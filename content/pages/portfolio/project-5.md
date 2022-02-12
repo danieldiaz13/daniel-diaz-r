@@ -52,7 +52,7 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 **terror-daniel**
 
-![]()
+![](https://scontent.feoh2-1.fna.fbcdn.net/v/t39.10260-6/p60x60/271861615_446580910446484_8022963226931181353_n.png?_nc_cat=111&ccb=1-5&_nc_sid=df6b83&_nc_eui2=AeEnc603kzxOqQKgkoo2oCdfnt82jNHnW7ee3zaM0edbt9LQm1QqvMzCuEdOPhdd_3zcezvfhnMldqIiq8ZJTpMm&_nc_ohc=s23Be5zLZScAX8YzFp5&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-cx_HaTIU0EO_vlEyZamVp4_XlSrm6kjGi-O6LyWnjjg&oe=620D8401)
 #### <https://www.instagram.com/ar/995167001080959/>
 
 ##
