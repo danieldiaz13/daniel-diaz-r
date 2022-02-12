@@ -4,7 +4,7 @@ subtitle: Reto de Platzi con Meta
 date: '2022-02-12'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
-image: 
+image: https://i.imgur.com/THoC8gq.png
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
