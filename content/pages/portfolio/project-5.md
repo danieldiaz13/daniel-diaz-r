@@ -76,5 +76,7 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 ### <https://www.facebook.com/fbcameraeffects/tryit/644228086858389/>
 
 **ojos**
-![]()
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0b9b1a61-4517-4464-b91b-044768a62b32%2FCaptura_de_pantalla_(2168).png?id=d98937ef-65ad-4480-81cc-23252e827d27&table=block&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=660&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
+
+### <>
 ***
