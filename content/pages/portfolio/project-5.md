@@ -38,13 +38,13 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 ## **Cursos tomados para aprobar el reto**
 
-### Curso de Creación de Filtros Faciales para Instagram con Spark AR
+#### Curso de Creación de Filtros Faciales para Instagram con Spark AR
 
-### <https://platzi.com/p/danieldiaz5174/curso/2647-course/diploma/detalle/>
+#### <https://platzi.com/p/danieldiaz5174/curso/2647-course/diploma/detalle/>
 
-### Curso de Creación de Filtros 3D para Instagram con Spark AR&#xA;<https://platzi.com/p/danieldiaz5174/curso/2667-course/diploma/detalle/>
+#### Curso de Creación de Filtros 3D para Instagram con Spark AR&#xA;<https://platzi.com/p/danieldiaz5174/curso/2667-course/diploma/detalle/>
 
-### Curso Básico de Photoshop&#xA;&#xA;
+#### Curso Básico de Photoshop&#xA;&#xA;
 
 # Filtros para diferentes redes sociales
 
