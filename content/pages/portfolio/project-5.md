@@ -48,9 +48,7 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 #### Curso Básico de Photoshop
 
-
-<https://platzi.com/p/danieldiaz5174/curso/1230-photoshop-basico/diploma/detalle/>
-
+#### <https://platzi.com/p/danieldiaz5174/curso/1230-photoshop-basico/diploma/detalle/>
 
 ### **Filtros para diferentes redes sociales**
 
