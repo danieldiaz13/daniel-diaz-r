@@ -46,7 +46,7 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 #### <https://platzi.com/p/danieldiaz5174/curso/2667-course/diploma/detalle/>
 
-#### Curso Básico de Photoshop&#xA;&#xA;
+#### Curso Básico de Photoshop&#xA;<https://platzi.com/p/danieldiaz5174/curso/1230-photoshop-basico/diploma/detalle/>&#xA;
 
 ### **Filtros para diferentes redes sociales**
 
@@ -54,13 +54,11 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F34fcf7e8-fa2f-418e-96c6-933d29c5028b%2FCaptura_de_pantalla_\(2167\).png?table=block\&id=cdd27336-50c5-40cb-8655-099bceba79ab\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=830\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
-
-
 #### <https://www.instagram.com/ar/995167001080959/>
 
 ##### **3D_mascar**
 
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F91425835-2b79-4faa-af7c-0fb4e9bbf5ef%2F1644262419520.jpg?table=block&id=fec1251a-643b-4cae-ab9c-911b813e3191&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=1440&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F91425835-2b79-4faa-af7c-0fb4e9bbf5ef%2F1644262419520.jpg?table=block\&id=fec1251a-643b-4cae-ab9c-911b813e3191\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=1440\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
 #### <https://www.instagram.com/ar/475322594179633/>
 
@@ -84,9 +82,8 @@ Este reto consiste en hacer cierta cantidad de cursos los cuales sirven para est
 
 ##### **ojos**
 
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0b9b1a61-4517-4464-b91b-044768a62b32%2FCaptura_de_pantalla_(2168).png?table=block&id=d98937ef-65ad-4480-81cc-23252e827d27&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65&width=660&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e&cache=v2)
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0b9b1a61-4517-4464-b91b-044768a62b32%2FCaptura_de_pantalla_\(2168\).png?table=block\&id=d98937ef-65ad-4480-81cc-23252e827d27\&spaceId=13328bea-cc89-4468-bfca-ebe605b88e65\&width=660\&userId=514977c9-36d0-4e2d-886a-4c4d0a56974e\&cache=v2)
 
 #### <https://www.instagram.com/ar/1076071939848377/>
 
 #### <https://www.facebook.com/fbcameraeffects/tryit/1076071939848377/>
-
