@@ -36,17 +36,21 @@ layout: project
 subtitle: Interfaz de inicio de búsqueda e inicio de sesión.
 thumb_image_alt: THML y CSS
 ---
-Estos son los primeros ´pasos en HTML y CSS en este proyecto se basa en mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
+Estos son los primeros pasos en HTML y CSS para solventar las bases de este proyecto en el cual se busca mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
 
-La interfaz de brusquedad puedes ver como lo que quieres ver se resalta y la forma del corsos cambia, ver los iconos de que usual mente vemos para agregar o reproducir algún video, los detalles que tiene el buscador, en la parte superior derecha encontraras un perfil el el cual si pasas el cursor por el saldrá cuenta y iniciar sesión
+Durante la muestra de mi proyecto se puede ver las siguientes características:
 
-La internas de inicio puede encontrar como se mesclan dos colores, como se ubican los espacio de la contraseña como se pone una imagen y un escrito al lado de ella
+En la interfaz de búsqueda se puede ver como ésta resalta para mostrar su importancia y al estar allí la forma del cursor cambia. También podrás ver los detalles del buscador. 
 
-## URL del sitio:
+Se puede apreciar los iconos que usualmente se usan para agregar o reproducir videos.
+
+En la parte superior derecha se encontrará un perfil en el cual al pasar el cursor abrirá la opción de registrarse e iniciar sesión.
+
+## Al entrar a inicio de sesión se puede apreciar que la página mostrará una mezcla de dos colores para generar impacto visual, también se podrá apreciar un recuadro donde se pondrá la contraseña de ingreso, otro donde se pondrá una foto de perfil y allí mismo habrá un breve espacio para realizar un escrito.&#xA;&#xA;URL del sitio:
 
 <https://danieldiaz13.github.io/Basico-HTML-CSS/>
 
-## Te recomiendo esos sitios con los cuales saque los colores, la letra, los iconos y imágenes gratis
+## Te recomiendo estos sitios en los cuales encontré:&#xA;los colores, la tipografía de la letra, los iconos e imágenes de forma&#xA;gratuita:
 
 Colores:  <https://coolors.co/cb997e-ddbea9-ffe8d6-b7b7a4-a5a58d-6b705c>
 
