@@ -33,7 +33,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: 'Interfaz de de inicio de búsqueda y inicio de sesión,'
+subtitle: Interfaz de inicio de búsqueda e inicio de sesión.
 thumb_image_alt: THML y CSS
 ---
 Estos son los primeros ´pasos en HTML y CSS en este proyecto se basa en mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
