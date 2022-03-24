@@ -36,17 +36,17 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Este código esta enfocado en la funcionalidad de JavaScript implementando un poco de CSS Y HTML para darle una visualización al código.
+Este código está enfocado en la funcionalidad de JavaScript implementando un poco de CSS Y HTML para darle una visualización al código.
 
-Podrás encontrar 4 partes las culés cada una tiene una diferente función:
+Podrás encontrar cuatro partes en las cuales cada una tendrá una función diferente:
 
-1Figuras: acá podar resolver figuras geométricas como el cuadrado, el triángulo, el circulo y el triángulo isósceles.
+1\)  Figuras: acá podar apreciar figuras geométricas simples como: el cuadrado, el triángulo, el circulo y el triángulo isósceles.
 
-2Descuentos: descuento podrá sacar el precio con el descuento de tu producto y podrás implementar algún bono si lo tienes.
+2\) Descuentos: Acá podrás encontrar la cifra exacta a la hora de realizar el descuento de un producto.
 
-3Promedio: promedio podrás sacar el promedio, la mediana y la moda.
+3\)  Promedio: Aquí podrás sacar el resultado de las principales funciones estadísticas, las cuales son: el promedio, la mediana y la moda.
 
-4Ingresos: ingresos podrá poner los ingresos que obtuviste en cada mes del año y con esto sacar el total de ingresos, el promedio mensual y mediana de ingresos.
+4\)  Ingresos: Aquí podrás llevar un registro de los ingresos que mensuales del año y con esto sacar un total y mediana de ingresos, y el promedio mensual.
 
 ## **URL del código:**
 
