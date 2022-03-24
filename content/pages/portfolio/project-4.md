@@ -36,36 +36,31 @@ seo:
       relativeUrl: true
 layout: project
 ---
-En este código se implementa JavaScript, CSS y HTML. Con esto logrando obtener una plata forma para poder reproducir videos la cual cuenta con un botón para parle play y pause al video y con otro botón el cual el funcionamiento es ponerle en mute o en unmute.
+En este código se implementa JavaScript, CSS y HTML. Con esto se logra obtener una plataforma para poder reproducir videos. Ésta cuenta con un botón para iniciar y pausar el video y con otro botón el cual permite quitarle el sonido al video (Mute/Inmute).
 
-El video es de Josed Mauricio Medina Espada el cual es entrevistado por Lady Andrea Diaz Reyes  para su proceso de formación en el SENA,
-el video se trata respecto a la experiencia en el SENA CSF de Josed Mauricio Medina Espada.
+El video que se usa para mostrar el funcionamiento de la plataforma es de Josed Mauricio Medina Espada quien es entrevistado por Lady Andrea Diaz Reyes para continuar con su proceso de formación en el SEN. El video cuenta respecto a la experiencia en el SENA CSF que tuvo Josed Mauricio Medina Espada.
 
 ## Contacto:
 
 Lady Andrea Diaz Reyes
 
-Contacto : ladydiaz479@gmail.com
+Contacto: ladydiaz479@gmail.com
 
 Josed Mauricio Medina Espada
 
 Contacto: [Linkedin](https://www.linkedin.com/in/josed-mauricio-medina-espada)
 
-
-
 ## Código
 
-En mi GitHub podrás encontrar el código con el cual fue creado este reproductor de videos la estructura que se uso en el archivo de CSS la forma en que se implementa JavaScript y el HTML que no puede faltar para tener tu sitio en el navegador.
+En mi GitHub podrás encontrar el código con el cual fue creado este reproductor de videos, allí podrás encontrar: la estructura que se usó en el archivo de CSS y la forma en que se implementó JavaScript y el HTML.
 
 ### Código de la plata forma en GitHub
 
-código: <https://github.com/danieldiaz13/VIDEO/settings/pages> 
-
-
+código: <https://github.com/danieldiaz13/VIDEO/settings/pages>
 
 ## Sitio de reproductor de video
 
-Acá en este link esta el reproductor de video podrás ver como quedo en su fase final.
+Acá en este link del reproductor del video, aquí podrás ver como
+quedo en su fase final:
 
 Reproductor de video: <https://danieldiaz13.github.io/VIDEO/>
-
