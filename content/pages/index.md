@@ -22,7 +22,9 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: MIS PROYETOS
-    subtitle: puedes contactarme para saber que código programa te gustaría ver
+    subtitle: |-
+      Puedes contactarme para saber que código programa te
+      gustaría obtener.
     projects_number: 6
     view_all_label: portfolio
     view_all_url: portfolio
