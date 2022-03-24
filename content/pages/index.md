@@ -5,14 +5,15 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      #### &#xA;
+      # Hola&#xA;soy Daniel Diaz y soy programador
 
 
-      #### **Hola soy Daniel Diaz y soy programador**&#xA;&#xA;
+      ## Soy un estudiante de electrónica que ha realizado enfoques&#xA;hacia la
+      programación, logrando combinar estos dos maravillosos mundos de
+      la&#xA;tecnología para potenciar mis habilidades.
 
 
-      Soy estudiante de electrónica con enfoques en la programación, logrando
-      combinar estos dos maravillosos mundos de la tecnología
+      ####
     actions:
       - label: Contactame
         url: /contact
