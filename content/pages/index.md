@@ -8,9 +8,9 @@ sections:
       # Hola&#xA;soy Daniel Diaz y soy programador
 
 
-      ## Soy un estudiante de electrónica que ha realizado enfoques&#xA;hacia la
-      programación, logrando combinar estos dos maravillosos mundos de
-      la&#xA;tecnología para potenciar mis habilidades.
+      ### Soy un estudiante de electrónica que ha realizado enfoques hacia la
+      programación, logrando combinar estos dos maravillosos mundos de la
+      tecnología para potenciar mis habilidades.
 
 
       ####
