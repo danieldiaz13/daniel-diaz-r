@@ -36,17 +36,17 @@ layout: project
 subtitle: Interfaz de inicio de búsqueda e inicio de sesión.
 thumb_image_alt: THML y CSS
 ---
-Estos son los primeros pasos en HTML y CSS para solventar las bases de este proyecto en el cual se busca mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
+### Estos son los primeros pasos en HTML y CSS para solventar las bases de este proyecto en el cual se busca mostrar una interfaz de búsqueda y una interfaz de inicio de sesión.
 
-Durante la muestra de mi proyecto se puede ver las siguientes características:
+### Durante la muestra de mi proyecto se puede ver las siguientes características:
 
-En la interfaz de búsqueda se puede ver como ésta resalta para mostrar su importancia y al estar allí la forma del cursor cambia. También podrás ver los detalles del buscador. 
+### En la interfaz de búsqueda se puede ver como ésta resalta para mostrar su importancia y al estar allí la forma del cursor cambia. También podrás ver los detalles del buscador.
 
-Se puede apreciar los iconos que usualmente se usan para agregar o reproducir videos.
+### Se puede apreciar los iconos que usualmente se usan para agregar o reproducir videos.
 
-En la parte superior derecha se encontrará un perfil en el cual al pasar el cursor abrirá la opción de registrarse e iniciar sesión.
+### En la parte superior derecha se encontrará un perfil en el cual al pasar el cursor abrirá la opción de registrarse e iniciar sesión.
 
-## Al entrar a inicio de sesión se puede apreciar que la página mostrará una mezcla de dos colores para generar impacto visual, también se podrá apreciar un recuadro donde se pondrá la contraseña de ingreso, otro donde se pondrá una foto de perfil y allí mismo habrá un breve espacio para realizar un escrito.&#xA;&#xA;URL del sitio:
+### Al entrar a inicio de sesión se puede apreciar que la página mostrará una mezcla de dos colores para generar impacto visual, también se podrá apreciar un recuadro donde se pondrá la contraseña de ingreso, otro donde se pondrá una foto de perfil y allí mismo habrá un breve espacio para realizar un escrito.&#xA;&#xA;URL del sitio:
 
 <https://danieldiaz13.github.io/Basico-HTML-CSS/>
 
