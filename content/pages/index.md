@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      # Hola&#xA;soy Daniel Felipe Diaz Rodriguez y soy programador
+      # Hola&#xA; aca de tejo mi nuevo sitio https://danieldiazweb.com/, este en poco tiempo sera eliminado soy Daniel Felipe Diaz Rodriguez y soy programador
 
 
       ### Soy un estudiante de electrónica que ha realizado enfoques hacia la
